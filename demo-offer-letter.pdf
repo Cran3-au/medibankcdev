@@ -1,0 +1,218 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca .055
+>>
+>> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (Medibank OSHC prototype) /CreationDate (D:20261013195106+11'00') /Creator (anonymous) /Keywords () /ModDate (D:20261013195106+11'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Prototype-only sample document) /Title (Demo Offer Letter - Not Valid) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<< /Length 5010 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.835294 0 .196078 rg
+n 0 745.5118 595.2756 96.37795 re f*
+1 1 1 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 51.02362 793.7008 Tm (DEMO OFFER LETTER) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 51.02362 773.8583 Tm (Prototype sample - not issued by an education provider or government agency) Tj T* ET
+.180392 .145098 .156863 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 51.02362 702.9921 Tm (Offer summary) Tj T* ET
+.835294 0 .196078 RG
+2 w
+n 51.02362 694.4882 m 544.252 694.4882 l S
+q
+1 0 0 1 51.02362 445.0394 cm
+q
+1 .94902 .960784 rg
+n 0 238.1102 87.87402 -238.1102 re f*
+1 .94902 .960784 rg
+n 252.2835 238.1102 79.37008 -238.1102 re f*
+.180392 .145098 .156863 rg
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 218.9024 Tm (Offer reference) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 218.9024 Tm (DEMO-7H4K-29QX) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 218.9024 Tm (Status) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 218.9024 Tm (SAMPLE ONLY) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 184.8866 Tm (Student) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 184.8866 Tm (Alex Chen \(demonstration\)) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 184.8866 Tm (Date of birth) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 184.8866 Tm (15 August 2001) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 150.8709 Tm (Nationality) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 150.8709 Tm (China) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 150.8709 Tm (Offer issued) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 150.8709 Tm (12 October 2026) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 116.8551 Tm (Provider) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 116.8551 Tm (UNSW Sydney \(Demo\)) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 116.8551 Tm (Provider code) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 116.8551 Tm (00000X) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 82.83937 Tm (Course) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 82.83937 Tm (Master of Information Systems) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 82.83937 Tm (Course level) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 82.83937 Tm (Higher Education) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 48.82362 Tm (Course start) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 48.82362 Tm (22 February 2027) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 48.82362 Tm (Course end) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 48.82362 Tm (17 November 2028) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 7 14.80787 Tm (Tuition fees) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 94.87402 14.80787 Tm (AUD 64,000 \(indicative\)) Tj T* ET
+BT /F2 8.2 Tf 12 TL ET
+BT 1 0 0 1 259.2835 14.80787 Tm (Campus) Tj T* ET
+BT /F1 8.2 Tf 12 TL ET
+BT 1 0 0 1 338.6535 14.80787 Tm (Sydney, NSW) Tj T* ET
+q
+1 J
+1 j
+.901961 .843137 .862745 RG
+.55 w
+n 0 238.1102 m 493.2283 238.1102 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 238.1102 l S
+n 493.2283 0 m 493.2283 238.1102 l S
+n 0 204.0945 m 493.2283 204.0945 l S
+n 0 170.0787 m 493.2283 170.0787 l S
+n 0 136.063 m 493.2283 136.063 l S
+n 0 102.0472 m 493.2283 102.0472 l S
+n 0 68.0315 m 493.2283 68.0315 l S
+n 0 34.01575 m 493.2283 34.01575 l S
+n 87.87402 0 m 87.87402 238.1102 l S
+n 252.2835 0 m 252.2835 238.1102 l S
+n 331.6535 0 m 331.6535 238.1102 l S
+Q
+Q
+Q
+1 .94902 .960784 rg
+n
+62.3622 303.3071 m
+532.9134 303.3071 l
+539.1814 303.3071 544.252 308.3777 544.252 314.6457 c
+544.252 388.3465 l
+544.252 394.6144 539.1814 399.685 532.9134 399.685 c
+62.3622 399.685 l
+56.09424 399.685 51.02362 394.6144 51.02362 388.3465 c
+51.02362 314.6457 l
+51.02362 308.3777 56.09424 303.3071 62.3622 303.3071 c
+h
+f*
+.835294 0 .196078 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 68.0315 377.0079 Tm (Suggested OSHC demonstration dates) Tj T* ET
+.180392 .145098 .156863 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 68.0315 354.3307 Tm (Cover start: 25 January 2027) Tj T* ET
+BT 1 0 0 1 283.4646 354.3307 Tm (Cover end: 17 December 2028) Tj T* ET
+BT /F3 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 68.0315 328.8189 Tm (These dates are fictional and must not be used for a real visa, enrolment or insurance application.) Tj T* ET
+q
+1 0 0 1 68.0315 90.70866 cm
+q
+BT 1 0 0 1 0 16 Tm -0.0562 Tw 12 TL /F2 8 Tf .180392 .145098 .156863 rg (Important:) Tj /F1 8 Tf ( A real offer letter is issued by an education provider. This fictional sample has no valid offer reference) Tj T* 0 Tw (and exists only to demonstrate file selection in this prototype.) Tj T* ET
+Q
+Q
+.901961 .843137 .862745 RG
+n 51.02362 70.86614 m 544.252 70.86614 l S
+.427451 .384314 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 51.02362 51.02362 Tm (PROTOTYPE DOCUMENT) Tj T* ET
+.505882 .462745 .478431 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 394.3045 51.02362 Tm (Page 1 of 1 | Generated for UI demonstration) Tj T* ET
+q
+.84 0 .2 rg
+/gRLs0 gs
+.857167 .515038 -0.515038 .857167 297.6378 420.9449 cm
+BT /F2 54 Tf 64.8 TL ET
+BT 1 0 0 1 -250.506 0 Tm (DEMO - NOT VALID) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000066 00000 n 
+0000000173 00000 n 
+0000000285 00000 n 
+0000000400 00000 n 
+0000000642 00000 n 
+0000000710 00000 n 
+0000001025 00000 n 
+0000001084 00000 n 
+trailer
+<< /Size 10 /Root 6 0 R /Info 7 0 R >>
+startxref
+6146
+%%EOF
